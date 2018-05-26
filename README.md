@@ -1,3 +1,5 @@
+**Note**
+This includes assignment folders and a ex3 folder. Please check for ex3 inside this ex3 folder.
 1.  **Introduction:**
 
 -   An application showing flood condition information all over Ho Chi
